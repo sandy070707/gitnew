@@ -1,0 +1,42 @@
+package learn.sandeep;
+
+import org.testng.annotations.Test;
+
+public class vk {
+	
+	
+	@Test
+	
+	public void lenovo()
+	
+	{
+		
+		System.out.println("mav");
+	}
+
+	
+	@Test
+public void postjira()
+	
+	{
+		
+		System.out.println("postjira");
+	}
+
+	@Test
+
+public void deleteTwitter()
+
+{
+	
+	System.out.println("deleteTwitter");
+}
+	
+	
+	
+	
+	
+	
+	
+	
+}
